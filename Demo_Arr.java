@@ -1,5 +1,5 @@
 package coreJava;
-
+// Array implementation
 public class Demo_Arr {
 
 	public static void main(String[] args) {
